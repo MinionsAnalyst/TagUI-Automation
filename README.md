@@ -1,6 +1,6 @@
 # TagUI-Automation
 This automation flow downloads a specific recurring report from Wave cloud accounting software.
-![Image of Sign In](https://my.waveapps.com/login/)
+![image WebSigIn](./pictures/WebSigIn.png)
 
 TagUI Workflow
 ```
