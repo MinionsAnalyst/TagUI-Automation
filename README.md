@@ -34,3 +34,5 @@ wait 3 seconds
 ```
 
 In this workflow, visual automation is used to interact with UI elements on Xero website using image snapshots. Using web element identiers work as well, if not better. In that mode, user will not see the mouse cursor moving.
+
+For anyone who is interested in TagUI, please download it @ https://tagui.readthedocs.io/en/latest/setup.html
